@@ -32,7 +32,7 @@ A fully working cloud-hosted website accessible over the internet.
 - Networking concepts (ports, public IPs)
 
 ## 📸 Project Screenshot
-![Website Screenshot](screenshot.png)
+![Website Screenshot](Screenshot.png)
 
 ## 🧱 Architecture Diagram
 
