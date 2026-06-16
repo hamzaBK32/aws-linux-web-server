@@ -31,5 +31,22 @@ A fully working cloud-hosted website accessible over the internet.
 - Web server configuration (Nginx)
 - Networking concepts (ports, public IPs)
 
+## 📸 Project Screenshot
+![Website Screenshot](screenshot.png)
+
+## 🧱 Architecture Diagram
+
+User (Browser)
+│
+│ HTTP request
+▼
+AWS EC2 (Ubuntu Server)
+│
+▼
+Nginx Web Server
+│
+▼
+Static HTML Website
+
 ## 🔥 Status
 Completed ✔️
